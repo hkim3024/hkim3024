@@ -1,5 +1,5 @@
 ### _...✨✨ From Systems Biology To Molecular Biology ✨✨..._
 
-- 📊 Mass Spectrometry
+- 📊 Mass spectrometry
 - 📜 Bioinformatics
 - 🔬 Cryogenic electron microscopy
