@@ -1,5 +1,5 @@
 ### _Pseudo Data Scientist with the Domain Knowledge of Biology Yet_
-### _Bioanalytical Chmemist_
+### _Bioanalytical Chemist_
 #
 ```
 ...✨✨ From Systems Biology To Molecular Biology ✨✨...
