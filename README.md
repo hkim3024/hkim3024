@@ -7,4 +7,11 @@
   <p style="font-family:courier; font-size: 110%; text-align: center;"> 📜 Bioinformatics</p>
   <p style="font-family:courier; font-size: 110%; text-align: center;"> 🔬 Cryogenic electron microscopy</p>
   I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+  <span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
   </div>
+
+  <span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
