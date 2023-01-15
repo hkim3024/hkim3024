@@ -1,5 +1,23 @@
-<h1 style="text-align:center;">Centered Heading</h1>
-<p style="text-align:center;">Centered paragraph.</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
+</div>
 
-<h1 style="font-size:300%;">This is a heading</h1>
-<p style="font-size:160%;">This is a paragraph.</p>
+<html>
+<head>
+<style>
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="myDiv">
+  <h2>This is a heading in a div element</h2>
+  <p>This is some text in a div element.</p>
+</div>
+
+</body>
+</html>
