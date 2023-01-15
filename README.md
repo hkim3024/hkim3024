@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
-</div>
+	<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
+	</div>
 
-<h1 style="font-size:10vw">Hello World</h1>
-<h1 style="font-size:5vw">Hello World</h1>
-<p1 style="font-size:5vw">Hello World</p1>
+<div align="center">
+	<img src="https://media.giphy.com/media/7uNrm67F6uwKkyUyuv/giphy.gif" width="300"/>
+</div>
